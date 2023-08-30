@@ -2,11 +2,11 @@
 Loan status prediction with support vector machine model using python machine learning.
 
 ### Dependencies
-numpy
-pandas
-seaboen
-sklearn.model_selection
-sklearn.metrics
+- numpy
+- pandas
+- seaboen
+- sklearn.model_selection
+- sklearn.metrics
 
 #### Data Collection and preprocessing
 #### Find Statistical measure
