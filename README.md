@@ -19,5 +19,4 @@ Loan status prediction with support vector machine model using python machine le
 #### Training the model - Support Vector Machine model
 #### Model Evaluation
 
-#### Dataset used
-https://www.kaggle.com/datasets/ninzaami/loan-predication
+#### Dataset used - https://www.kaggle.com/datasets/ninzaami/loan-predication
