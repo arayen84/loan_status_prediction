@@ -4,7 +4,7 @@ Loan status prediction with support vector machine model using python machine le
 ### Dependencies
 - numpy
 - pandas
-- seaboen
+- seaborn
 - sklearn.model_selection
 - sklearn.metrics
 
